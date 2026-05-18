@@ -1,0 +1,14 @@
+../Core/Src/main.c:92:9:DecToBCD	16	static
+../Core/Src/main.c:97:9:BCDToDec	16	static
+../Core/Src/main.c:102:19:SetTime	40	static
+../Core/Src/main.c:123:19:GetTime	40	static
+../Core/Src/main.c:152:6:DisplayTimeOnSH1106	56	static
+../Core/Src/main.c:167:6:DisplayErrorOnSH1106	8	static
+../Core/Src/main.c:183:5:main	144	static
+../Core/Src/main.c:281:6:SystemClock_Config	88	static
+../Core/Src/main.c:323:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:371:13:MX_SPI4_Init	8	static
+../Core/Src/main.c:409:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:447:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:480:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:515:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,14 @@
+../Core/Src/main.c:92:9:DecToBCD	1
+../Core/Src/main.c:97:9:BCDToDec	1
+../Core/Src/main.c:102:19:SetTime	1
+../Core/Src/main.c:123:19:GetTime	2
+../Core/Src/main.c:152:6:DisplayTimeOnSH1106	1
+../Core/Src/main.c:167:6:DisplayErrorOnSH1106	1
+../Core/Src/main.c:183:5:main	3
+../Core/Src/main.c:281:6:SystemClock_Config	3
+../Core/Src/main.c:323:13:MX_I2C3_Init	4
+../Core/Src/main.c:371:13:MX_SPI4_Init	2
+../Core/Src/main.c:409:13:MX_TIM6_Init	3
+../Core/Src/main.c:447:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:480:13:MX_GPIO_Init	1
+../Core/Src/main.c:515:6:Error_Handler	1
